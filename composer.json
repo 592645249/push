@@ -1,0 +1,14 @@
+{
+    "name": "qcloude/test",
+    "autoload": {
+        "psr-4": {
+            "Qcloude\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zjs"
+        }
+    ],
+    "require": {}
+}
